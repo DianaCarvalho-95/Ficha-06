@@ -374,3 +374,22 @@ box-sizing: border-box;         /* Inclui padding e borda na largura total */
     text-decoration: none;        /* Remove sublinhado */ 
 }
 
+/* Classe para IMC abaixo do peso */ 
+.abaixoPeso { 
+    color: green; 
+} 
+ 
+/* Classe para IMC peso normal */ 
+.pesoNormal { 
+    color: green; 
+} 
+ 
+/* Classe para IMC sobrepeso */ 
+.sobrepeso { 
+    color: red; 
+} 
+ 
+/* Classe para IMC obeso */ 
+.obeso { 
+    color: red; 
+} 
